@@ -491,6 +491,7 @@ header {
   position: relative;
   padding: 1rem;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  cursor:pointer;
 }
 
 .service__card:nth-child(1) {
@@ -628,7 +629,7 @@ header {
   border: 0.3em solid #00856C;
   margin: 1em;
   cursor: pointer;
-  background-color: white;
+  background-color:#FFFFFF;
 }
 
 ::-webkit-scrollbar-thumb {
