@@ -1,7 +1,7 @@
 ---
 title: My Second Article
-author: Kevin Powell
-date: 2021-05-15
+author: Syed Wasim Ahmed
+date: 2023-05-15
 tags: ["post", "featured"]
 image: /assets/blog/article-2.jpg
 imageAlt: This is a test

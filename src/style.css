@@ -628,6 +628,7 @@ header {
   border: 0.3em solid #00856C;
   margin: 1em;
   cursor: pointer;
+  background-color: white;
 }
 
 ::-webkit-scrollbar-thumb {
